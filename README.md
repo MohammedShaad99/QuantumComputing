@@ -1,6 +1,7 @@
+# QuantumComputing
 # Description of the problem
 
-<img src=https://github.com/Mohammedshaad99/QuantumComputing/image/circuit-diagram.jepg></img>
+<img src=https://github.com/Mohammedshaad99/QuantumComputing/image/circuit-diagram.jpeg></img>
 
 It consists of two CNOT gates in the middle of the circuit. The two-qubit input quantum
 register |x⟩ is in some arbitrary quantum state that forms its input and can be set by the
